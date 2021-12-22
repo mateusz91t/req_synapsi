@@ -38,14 +38,17 @@ def get_final_dict(
 def send_answers(
         post_uri: str,
         json: dict,
-        heads: dict) -> r.models.Response:
+        heads: dict,
+        login: str,
+        password: str) -> r.models.Response:
     """
     Sends your post request with answers to synapsi.xyz.
     """
     response = r.post(
         post_uri,
         json=json,
-        headers=heads
+        headers=heads,
+        auth=(login, password)
     )
 
     return response
@@ -67,16 +70,36 @@ def zip_files(
 def send_code(
         post_uri: str,
         file_src: str,
-        heads: dict) -> r.models.Response:
+        heads: dict,
+        login: str,
+        password: str) -> r.models.Response:
     """
     Sends your post reqest with file to synapsi.xyz.
     """
     # with open(file_src, 'rb') as f:
-        # zipped = f
+    # zipped = f
     response = r.post(
         post_uri,
         files={'file': open(file_src, 'rb')},
-        headers=heads
+        headers=heads,
+        auth=(login, password)
+    )
+
+    return response
+
+
+def send_done(
+        put_uri: str,
+        heads: dict,
+        login: str,
+        password: str) -> r.models.Response:
+    """
+    Sends your put reqest as work is done.
+    """
+    response = r.put(
+        put_uri,
+        headers=heads,
+        auth=(login, password)
     )
 
     return response

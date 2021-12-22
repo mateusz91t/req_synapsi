@@ -1,6 +1,3 @@
-# MateuszTrzuskowski021370
-# 93553b6234ed0b263f6f84e80191318b
-
 import pandas as pd
 import numpy as np
 import re
