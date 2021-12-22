@@ -1,0 +1,52 @@
+,name,dob,gender,movies,dod
+0,Scarlett Johansson,1984-11-22,F,"[{'title': 'Lucy', 'year': '2014'}, {'title': 'The Other Boleyn Girl', 'year': '2008'}, {'title': 'The Avengers', 'year': '2012'}, {'title': 'Black Widow', 'year': '2021'}, {'title': 'Girl With a Pearl Earring', 'year': '2003'}, {'title': 'Marriage Story', 'year': '2019'}]",
+1,Morgan Freeman,1937-01-06,M,"[{'title': 'RED'}, {'title': 'Wanted', 'year': '\t2008'}]",
+2,Javier Bardem,1969-01-03,M,"[{'title': 'Dune', 'year': '2021'}, {'title': 'Skyfall', 'year': '2012'}, {'title': 'Eat Pray Love', 'year': '2010'}, {'title': 'The Roads Not Taken', 'year': '2020'}]",
+3,Christian Bale,1974-01-30,M,"[{'title': 'Batman Begins', 'year': '2005'}, {'title': 'Knight of Cups', 'year': '2015'}, {'title': 'Exodus: Gods and Kings', 'year': '2014'}]",
+4,Leonardo DiCaprio,1974-11-11,M,"[{'title': 'Catch Me If You Can', 'year': '2002'}, {'title': 'Django Unchained', 'year': '2012'}, {'title': 'The Wolf of Wall Street', 'year': '2013'}, {'title': 'Romeo + Juliet', 'year': '1996'}, {'title': 'Shutter Island', 'year': '2010'}, {'title': 'The Revenant', 'year': '2015'}]",
+5,"Anthony			
+Hopkins",1937-12-31,M,"[{'title': '\nDracula', 'year': '1991'}, {'title': 'The Wolfman', 'year': '2010'}, {'title': 'Joe Black', 'year': '1998'}, {'title': 'Hannibal', 'year': '2001'}, {'title': 'The Silence of the Lambs', 'year': '\n1991'}]",
+6,Gary Oldman,1958-03-21,M,"[{'title': 'Léon: The Professional', 'year': '1994'}, {'title': 'The Book of Eli', 'year': '2010'}, {'title': 'The Dark Knight', 'year': '\t2008'}]",
+7,Robin Williams,1951-07-21,M,"[{'title': 'Dead Again', 'year': '1991'}, {'title': 'Flubber', 'year': '1997'}, {'title': 'Good Morning, Vietnam', 'year': '1987'}, {'title': 'Patch Adams', 'year': '1998'}, {'title': 'Good Will Hunting', 'year': '1997'}, {'title': 'Jumanji', 'year': '1995'}, {'title': 'Mrs. Doubtfire', 'year': '1993'}, {'title': 'Dead Poets Society', 'year': '1989'}]",2014-11-08
+8,Rami Malek,1981-12-05,M,"[{'title': 'Bohemian Rhapsody', 'year': '2018'}, {'title': 'No Time to Die', 'year': '2021'}, {'title': 'Night at the Museum: Secret of the Tomb', 'year': '2014'}]",
+9,Seth Rogen,1982-04-15,M,"[{'title': 'Long Shot', 'year': '2019'}, {'title': 'Neighbors', 'year': '2014'}]",
+10,Jeff Bridges,1949-04-12,M,"[{'title': 'True Grit'}, {'title': 'Jagged Edge'}, {'title': 'K-PAX'}, {'title': 'Iron Man'}, {'title': 'Tron'}, {'title': 'Big Lebowski'}]",
+11,Jesse Eisenberg,1983-05-10,M,"[{'title': 'Resistance', 'year': '2020'}, {'title': 'Batman v Superman: Dawn of Justice', 'year': '2016'}, {'title': 'The Social Network', 'year': '2010'}]",
+12,Winona Ryder,1971-10-29,F,"[{'title': 'The Plot Against America', 'year': '2020'}, {'title': 'The Iceman', 'year': '2012'}, {'title': 'Black Swan', 'year': '2010'}, {'title': 'Little Women', 'year': '1994'}, {'title': 'Show Me a Hero', 'year': '2015'}]",
+13,Charlie Chaplin,1889-04-16,M,"[{'title': 'The Kid', 'year': '1921'}, {'title': 'The Circus', 'year': '1928'}, {'title': 'Monsieur Verdoux', 'year': '1947'}, {'title': 'Modern Times', 'year': '1936'}, {'title': 'The Gold Rush', 'year': '1925'}, {'title': 'The Great Dictator', 'year': '1940'}, {'title': 'Limelight', 'year': '1952'}, {'title': 'City Lights', 'year': '1931'}, {'title': 'A King in New York', 'year': '1957'}, {'title': 'A Countess from Hong Kong', 'year': '1967'}]",1977-12-25
+14,Woody Harrelson,1961-07-23,M,"[{'title': 'True Detective', 'year': '2014'}, {'title': 'The People vs. Larry Flynt', 'year': '1996'}, {'title': 'Now You See Me 2', 'year': '2016'}, {'title': 'Solo: A Star Wars Story', 'year': '2018'}, {'title': 'The Hunger Games', 'year': '2012'}]",
+15,Matt Damon,1970-08-10,M,"[{'title': 'The Great Wall', 'year': '2016'}, {'title': 'Saving Private Ryan', 'year': '1998'}, {'title': 'The Martian', 'year': '2015'}, {'title': 'Deadpool 2', 'year': '2018'}]",
+16,"Edward
+Norton
+
+
+",1969-08-18,M,"[{'title': 'Fight Club', 'year': '1999'}, {'title': 'Birdman', 'year': '2014'}, {'title': 'Pride and Glory', 'year': '2008'}, {'title': 'Collateral Beauty', 'year': '2016'}]",
+17,Marlon Brando,1924-04-04,M,"[{'title': 'A Streetcar Named Desire', 'year': '1951'}, {'title': 'The Wild One', 'year': 1953}, {'title': 'Don Juan DeMarco', 'year': None}, {'title': 'The Godfather'}]",2004-01-07
+18,George Clooney,1961-06-05,M,"[{'title': 'Tomorrowland', 'year': '2015'}, {'title': 'Money Monster', 'year': '2016'}, {'title': 'Batman & Robin', 'year': '1997'}, {'title': 'Gravity', 'year': '2013'}]",
+19,Jonah Hill,1983-12-30,M,"[{'title': 'Django Unchained', 'year': '2012'}, {'title': 'The Wolf of Wall Street', 'year': '2013'}, {'title': '22 Jump Street', 'year': '2014'}]",
+20,Matthew McConaughey,1969-04-11,M,"[{'title': 'The Gentlemen', 'year': '2019'}, {'title': 'Thirteen Conversations About One Thing', 'year': '2001'}, {'title': 'White Boy Rick', 'year': '2018'}, {'title': 'True Detective', 'year': '2014'}]",
+21,Brad Pitt,1963-12-18,M,"[{'title': 'Inglourious Basterds', 'year': '2009'}, {'title': 'The Curious Case of Benjamin Button', 'year': '2008\n'}, {'title': 'Fight Club\t', 'year': '1999'}, {'title': 'World War Z', 'year': '2013'}, {'title': ""Ocean's Eleven"", 'year': '2001'}, {'title': 'Ad\nAstra', 'year': '2019'}, {'title': 'Snatch', 'year': '11111'}]",
+22,Jake Gyllenhaal,1980-12-19,M,"[{'title': 'Wildlife', 'year': '2018'}, {'title': 'October Sky', 'year': '1999'}, {'title': 'Everest', 'year': '2015'}, {'title': 'Spider-Man: Far From Home', 'year': '2019'}]",
+23,Tom Hanks,1956-09-06,M,"[{'title': 'The Da Vinci Code', 'year': '2016'}, {'title': 'The Circle', 'year': '2017'}, {'title': 'Inferno', 'year': '2016'}, {'title': 'Inferno', 'year': '2006'}, {'title': 'Cast Away', 'year': '2000'}, {'title': 'Sully', 'year': '2016'}]",
+24,Léa Seydoux,1985-01-07,F,"[{'title': 'Zoe', 'year': '2018'}, {'title': 'No Time to Die', 'year': '2021'}, {'title': 'La Belle & la bête', 'year': '2014'}]",
+25,Meryl Streep,1949-06-22,F,"[{'title': 'Suffragette', 'year': '2015'}, {'title': 'Julie & Julia', 'year': '2009'}, {'title': 'Heartburn', 'year': '1986'}, {'title': 'Doubt', 'year': '2008'}, {'title': 'Little Women', 'year': '2017'}]",
+26,Mark Ruffalo,1967-11-22,M,"[{'title': 'Now You See Me', 'year': '2013'}, {'title': 'Captain Marvel', 'year': '2019'}, {'title': 'Avengers: Infinity War', 'year': '2018'}]",
+27,Tom Cruise,1962-03-06,M,"[{'title': 'Valkyrie', 'year': '2008'}, {'title': 'Edge of Tomorrow', 'year': '2014'}, {'title': 'The Last Samurai', 'year': '2003'}, {'title': 'American Made', 'year': '2017'}, {'title': 'Jack Reacher: Never Go Back', 'year': '2016'}]",
+28,Ralph Fiennes,1962-12-22,M,"[{'title': 'The Invisible Woman', 'year': '2013'}, {'title': ""The King's Man"", 'year': '2021'}, {'title': 'No Time to Die', 'year': '2021'}, {'title': 'Holmes & Watson', 'year': '2018'}]",
+29,Renée Zellweger,1969-04-25,F,"[{'title': 'Chicago', 'year': '2002'}, {'title': 'Cold Mountain', 'year': '2003'}, {'title': ""Bridget Jones's Baby"", 'year': '2016'}]",
+30,Robert De Niro,1943-08-17,M,"[{'title': '&nbsp;Goodfellas '}, {'title': 'The Godfather'}, {'title': 'Ronin\n\n'}]",
+31,Heath Ledger,1979-04-04,M,"[{'title': 'The Dark Knight'}, {'title': 'The Imaginarium of Doctor Parnassus'}, {'title': 'The Patriot'}]",2008-01-22
+32,Quentin Tarantino,1963-03-27,M,"[{'title': 'Django Unchained ', 'year': '2012'}]",
+33,Johnny Depp,1963-09-06,M,"[{'title': '\nTranscendence', 'year': ''}, {'title': 'Public Enemies'}, {'title': 'Blow'}, {'title': 'The Libertine'}]",
+34,Mel Gibson,1956-03-01,M,"[{'title': 'Lethal Weapon', 'year': '1987'}, {'title': 'The Patriot', 'year': '2000'}, {'title': 'We Were Soldiers', 'year': '2002'}, {'title': 'Braveheart', 'year': '1995'}, {'title': 'Mad Max', 'year': '1979'}]",
+35,Daniel Craig,1968-02-03,M,"[{'title': 'No Time to Die', 'year': '2021'}, {'title': 'The Girl with the Dragon Tattoo', 'year': '2011'}, {'title': 'Kiss and Tell', 'year': '1996'}, {'title': 'Star Wars: Episode VII - The Force Awakens', 'year': '2015'}, {'title': 'Knives Out', 'year': '2019'}, {'title': 'Lara Croft: Tomb Raider', 'year': '2001'}]",
+36,F. Murray Abraham,1939-10-24,M,"[{'title': 'Inside Llewyn Davis', 'year': '2013'}, {'title': 'Star Trek: Insurrection', 'year': '1998'}, {'title': '11 settembre 1683', 'year': '2012'}]",
+37,Mark Wahlberg,1971-05-06,M,"[{'title': 'Ted', 'year': '2012'}, {'title': 'Transformers: The Last Knight', 'year': '2017'}, {'title': 'Mile 22', 'year': '2018'}]",
+38,Tom Hardy,1977-09-15,M,"[{'title': 'Peaky Blinders', 'year': '2019'}, {'title': 'The Revenant', 'year': '2015'}, {'title': 'Mad Max: Fury Road', 'year': '2015'}, {'title': 'Venom: Let There Be Carnage', 'year': '2021'}, {'title': 'Inception', 'year': '2010'}]",
+39,Robert Downey Jr.,1965-04-04,M,"[{'title': 'Zodiac', 'year': '2007'}, {'title': 'The Judge', 'year': '2014'}, {'title': 'Iron Man', 'year': '2008'}, {'title': 'U.S. Marshals', 'year': '1998'}, {'title': 'Sherlock Holmes: A Game of Shadows', 'year': '2011'}, {'title': 'Avengers: Endgame', 'year': '2019'}, {'title': 'Captain America: Civil War', 'year': '2016'}]",
+40,Philip Seymour Hoffman,1967-07-23,M,"[{'title': 'The Hunger Games: Catching Fire', 'year': '2013'}, {'title': 'Cold Mountain', 'year': '2003'}, {'title': 'Magnolia', 'year': '1999'}, {'title': 'A Most Wanted Man', 'year': '2014'}]",2014-02-02
+41,Tobey Maguire,1975-06-27,M,"[{'title': 'Spider-Man', 'year': '2002'}, {'title': 'Spider-Man 3', 'year': '2007'}, {'title': 'Spider-Man 2', 'year': '2004'}]",
+42,"Chris
+ Evans",1981-06-13,M,"[{'title': 'Defending Jacob', 'year': '2020'}, {'title': 'Avengers: Infinity War', 'year': '2018'}, {'title': ""What's Your Number?"", 'year': '2011'}]",
+43,Clark Gable,1901-01-02,M,"[{'title': 'The\nMisfits', 'year': '1961'}, {'title': 'It Happened One Night', 'year': '1934'}, {'title': 'Gone with the Wind', 'year': '1939'}]",1960-11-16
+44,Russell Crowe,1964-07-04,M,"[{'title': 'Noah', 'year': '2014'}, {'title': 'The Mummy', 'year': '2017'}, {'title': 'Unhinged', 'year': '2020'}]",
