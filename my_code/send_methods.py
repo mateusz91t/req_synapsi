@@ -1,5 +1,6 @@
 import hashlib
 import json
+import re
 import requests as r
 from zipfile import ZipFile
 
@@ -49,15 +50,11 @@ def send_answers(
     return response
 
 
-def zip_files(out_zip_file: str, files_to_zip: list) -> bool:
-    try:
-        with ZipFile(out_zip_file, "w") as zipf:
-            for f in files_to_zip:
-                zipf.write(f)
-    except FileNotFoundError:
-        return False
-    else:
-        return True
+def zip_files(out_zip_file: str, files_to_zip: list):
+    with ZipFile(out_zip_file, "w") as zipf:
+        for f in files_to_zip:
+            zipf.write(f)
+    return True
 
 
 def send_code(

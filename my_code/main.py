@@ -1,5 +1,5 @@
-import send_methods as sm
-import variables as v
+import my_code.send_methods as sm
+import my_code.variables as v
 
 
 answers = sm.get_answers(v.answers_source)
@@ -19,6 +19,7 @@ response_code = sm.send_code(v.post_code_uri, v.zip_file, v.headers_code, v.logi
 response_done = sm.send_done(v.put_done_uri, v.headers_code, v.login)
 
 answers
+final_dict
 response_answers
 response_answers.request.headers
 is_zipped

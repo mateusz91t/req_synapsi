@@ -5,20 +5,21 @@ login = "MateuszTrzuskowski021370"
 post_answers_uri = "https://synapsi.xyz/api/recruitment/answers"
 post_code_uri = "https://synapsi.xyz/api/recruitment/code"
 put_done_uri = "https://synapsi.xyz/api/recruitment/done"
-answers_source = "answers.json"
+answers_source = "sources/answers.json"
 fname = "Mateusz"
 lname = "Trzuskowski"
 email = "mateusz.trzuskowski.91@gmail.com"
-zip_file = "synapsi_recruitment.zip"
+zip_file = "sources/synapsi_recruitment.zip"
 files = [
-    "variables.py",
-    "send_methods.py",
-    "movies.csv",
-    "main.py",
-    "dataset.json",
-    "data_cleaning.py",
-    "answers.py",
-    "actors.csv",
+    "sources/dataset.json",
+    "sources/actors.csv",
+    "sources/movies.csv",
+    "my_code/answers.py",
+    "my_code/data_cleaning.py",
+    "my_code/variables.py",
+    "my_code/send_methods.py",
+    "my_code/main.py",
+    "requirements.txt",
     ".gitignore",
 ]
 
