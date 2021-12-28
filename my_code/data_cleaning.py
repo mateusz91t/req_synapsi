@@ -3,8 +3,7 @@ import numpy as np
 import re
 
 
-actors = pd.read_json('dataset.json')
-
+actors = pd.read_json('my_code/dataset.json')
 
 # actors cleaning
 actors.sample(n=5)
@@ -92,5 +91,5 @@ movies['year'] = movies['year'].apply(lambda s: int(re.sub('\t|\n', '', str(s)))
 movies['year'] = movies['year'].astype(np.int16)
 
 # save files
-actors.to_csv('actors.csv')
-movies.to_csv('movies.csv')
+actors.to_csv('my_code/actors.csv')
+movies.to_csv('my_code/movies.csv')

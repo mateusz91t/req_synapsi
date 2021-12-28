@@ -5,8 +5,8 @@ from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
 
-actors = pd.read_csv('actors.csv', index_col=0)
-movies = pd.read_csv('movies.csv', index_col=0)
+actors = pd.read_csv('my_code/actors.csv', index_col=0)
+movies = pd.read_csv('my_code/movies.csv', index_col=0)
 actors
 movies
 actors.info()
@@ -87,5 +87,5 @@ for i in range(1, len(answers) +1):
 
 answers_dict
 
-with open('answers.json', 'w') as outfile:
+with open('my_code/answers.json', 'w') as outfile:
     json.dump(answers_dict, outfile)
